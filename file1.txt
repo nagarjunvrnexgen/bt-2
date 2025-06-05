@@ -1,3 +1,5 @@
 Hi this is Nagarjun
 I'm a BE graduate
 I studied computer science and engineering
+
+I like Python and SQL, and it is very intresting to learn.
